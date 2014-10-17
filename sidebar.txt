@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[crd:home|Door43 (crd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-crd|d43-crd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-crd/archive/master.zip|d43-crd.zip]]
+
+**Recent Changes**
+{{changes>ns = crd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/crd|Ethnologue data]]
+
